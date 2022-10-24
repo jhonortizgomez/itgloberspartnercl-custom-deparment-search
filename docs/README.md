@@ -1,10 +1,10 @@
-# Busqueda Por Departamento
+# Deparment search
 
 Component that renders results of a chosen department in a selection block
 
 ![image](../assets/custom-depart-search.png)
 
-## Configuración
+## Configuration
 
 ### Step 1 - Cloning the repository
 
